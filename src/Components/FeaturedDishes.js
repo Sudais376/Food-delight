@@ -10,7 +10,7 @@ const FeaturedDishes = () => {
 
   return (
     <>
-      <section className="featuredDishes py-12 px-6 bg-[#FFD54F]">
+      <section className="featuredDishes py-12 px-6 bg-[#f0cc57f2]">
         <div data-aos="fade-up" className="text-center pb-8">
           <h2 className="text-3xl md:text-4xl font-bold">
             Our Featured Dishes

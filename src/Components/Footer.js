@@ -16,7 +16,7 @@ const Footer = () => {
         <div>
         <div className="flex items-center gap-2">
           <Link to='/'><img src="/Logo.png" width={60} alt="Logo" /></Link>
-          <Link to='/'><span className="text-white font-bold text-2xl">Food Delight</span></Link>
+          <Link to='/'><span className="text-white hover:!text-[#FF4C4C] font-bold text-2xl">Food Delight</span></Link>
         </div>
         </div>
         <div>
