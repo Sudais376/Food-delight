@@ -13,7 +13,7 @@ const ContactHero = () => {
             <div className="">
               <img
                 className="w-full h-[300px] md:h-[600px] object-cover"
-                src="/AboutHero.jpg"
+                src="/ContactHero.jpg"
                 alt=""
               />
             </div>
