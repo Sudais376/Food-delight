@@ -3,6 +3,11 @@ import { Helmet } from "react-helmet-async";
 import AOS from "aos";
 
 const Menu = () => {
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   const [activeButton, setActiveButton] = useState("Appetizers"); // Default active button
 
   const refs = {
